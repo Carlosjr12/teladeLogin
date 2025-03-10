@@ -1,0 +1,16 @@
+form{
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    background-color: cadetblue;
+    padding: 10px;
+    border-radius: 10px;
+    h1{
+        text-align: center;
+    }
+
+}
+body{
+    display: flex;
+    justify-content: center;
+}
